@@ -1,6 +1,16 @@
-title: Minimal theme
+title: <p align="center"> Vishnu Vinod V K </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: <p align="center">
+  <a href="https://www.linkedin.com/in/vishnuvinodvk/">LinkedIn</a> |
+  <a href="https://github.com/VKVishnuVinod">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Worked with GSK at R&D Tech team.
+  <br>
+  </p>
+
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
